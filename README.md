@@ -6,7 +6,7 @@ To run the sketch locally, open `index.html` in Google Chrome using Live Server.
 
 **Controls:** WASD to move.
 
-Collect all 3 coins then reach the green exit tile to win.
+Collect all 3 hearts then reach the green exit tile to win.
 
 **Opening the Chrome Console**
 
