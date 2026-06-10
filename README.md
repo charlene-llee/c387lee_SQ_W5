@@ -1,4 +1,4 @@
-# Week 5 Example 3 — Maze with Animated Character and Coins
+# Week 5 Example 3 — Maze with Animated Character and Hearts
 
 ## Setup and Interaction Instructions
 
